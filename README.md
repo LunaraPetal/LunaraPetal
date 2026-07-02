@@ -2,8 +2,14 @@
 </div>
 
 <img src="https://github.com/user-attachments/assets/a79e871f-2d0c-49cd-b439-2ad2c10bcf48" width="20">
-</div> 𝓲 𝓵𝓸𝓿𝓮 𝓶𝔂 𝓫𝓯
-</div> 𝓢𝓾𝓹𝓹𝓸𝓻𝓽 : @𝓭𝓪𝔀𝓷𝓼𝓾𝓶𝓶𝓮𝓻
-<a href="https://discord.gg/RAcMm6AZ">
-  <img src="https://i.pinimg.com/originals/3e/06/5a/3e065a717c44fa83b3c7dc64ec2e075f.gif" width="300">
-</a>
+        </div>𝓶𝓸𝓸𝓷 𝓬𝓪𝓻𝓿𝓮𝓼 𝓶𝓮 𝓲𝓷𝓽𝓸 𝓼𝓪𝓴𝓾𝓻𝓪
+    </div> 
+
+
+      𝓢𝓾𝓹𝓹𝓸𝓻𝓽 : @𝓭𝓪𝔀𝓷𝓼𝓾𝓶𝓶𝓮𝓻
+<img src="https://i.pinimg.com/originals/3e/06/5a/3e065a717c44fa83b3c7dc64ec2e075f.gif" width="420">
+</div>
+<div align="center">
+<a href="https://discord.gg/RAcMm6AZ">discord</a>
+
+</div>
